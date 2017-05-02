@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quien lo escribio</string>
+    <string name="instructions">Introduzca un nombre de libro o parte de un nombre de libro, o simplemente un texto de un libro a encontrar
+        el título completo del libro y quién lo escribió!</string>
+    <string name="button_text">Buscar libros</string>
+    <string name="input_hint">Escribe nombre del libro</string>
+    <string name="no_search_term">Introduzca un término de búsqueda</string>
+    <string name="no_network">Comprueba tu conexión de red y vuelve a intentarlo.</string>
+    <string name="no_results">Nada encontrado</string>
+    <string name="loading">Buscando...</string>
+</resources>
